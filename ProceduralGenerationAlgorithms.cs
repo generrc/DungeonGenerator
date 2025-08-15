@@ -33,7 +33,7 @@ public static class ProceduralGenerationAlgorithms
     }
 }
 /// <summary>
-/// This class basically allowsthe algorithms to check directions with the cardinal directiopns list.
+/// This class basically allowsthe algorithms to check directions with the cardinal directions list.
 /// This is seen in randomwalkgenerator and wallgenerator where this is used to find new locations and check 
 /// for possible wallspaces.
 /// </summary>
